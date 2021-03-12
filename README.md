@@ -19,9 +19,12 @@
 [HOW TO WRITE A KILLER CV – 15 DOS AND DON’TS](https://cleareurope.eu/write-killer-cv-15-dos-donts/).      
 [I’ve read thousands of resumes. Most of them suck. Yours doesn’t have to.](https://emeyerson.medium.com/ive-read-thousands-of-resumes-most-of-them-suck-yours-doesn-t-have-to-ab6107fa8ace).   
 
+Текст письма положите в .pdf файл. Назовите его name-surname-cv.pdf, где name-surname - это ваши имя и фамилия. Например, для Jane Doe название файла будет jane-doe-cv.pdf
+
 ## Код
 Создайте себе аккаунт в любой version control system: github, gitlab, bitbucket.  
 В отдельные репозитории добавьте любой код, который вы успели написать. Подойдут любые проектики, задачи, курсовые, решения задач из книжек и с сайтов.   
+Если вы добавляете код в приватные проекты, добавьте в проект @lanavasilieva (github и gitlab).  
 
 Мы проверяем ваш код на плагиат. В репозитории добавляйте только ваш личный код, написанный вами.  
 
@@ -38,3 +41,14 @@
 ## Тестовые задания с прошлых наборов  
 [тестовое задание, 2020 Е05](https://github.com/SyberryAcademy/Tasks-Library/blob/master/Matrix-Operations/matrix-operations.md)  
 [тестовое задание, 2020 Е06](https://github.com/SyberryAcademy/Syberry-Academy-Test-Task-For-Developers/blob/main/intervals.md)
+
+
+## Как подать заявку
+Всю информацию соберите в письмо для s.vasilieva@syberry.com
+В письме должно быть:
+резюме (pdf файл)
+мотивационное письмо (txt файл)
+ссылки на репозитории  
+Тема письма: Заявка на стажировку в Syberry Academy - Name Surname, start-it
+
+На почте стоит фильтр. Если вы неправильно напишете тему письма или если в письме не будет pdf, txt файлов и хотя бы одного линка, то письмо автоматически попадет в спам, и мы его не увидим.  
