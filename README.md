@@ -4,16 +4,36 @@
 
 Для регистрации подготовьте:  
 резюме  
-пет-проекты  
+ваш код  
 мотивационное письмо  
 
 Перед тестовым заданием решите тестовые задания с прошлых наборов
 
-## Как подготовить резюме
+## Резюме
+Напишите о себе: кто вы, что вы умеете.  
+Не приукрашивайте. Напишите как есть. Нам важно понять, что вы уже сделали для того, чтобы стать разработчиком.  
 
-## Как подготовить пет-проекты
+[Рассказ о себе](https://maximilyahov.ru/blog/all/rasskaz-o-sebe/).   
+[Расскажите о себе](https://megaplan.ru/blog/management/get-a-job/).   
+[Резюме глазами интервьюера](https://habr.com/ru/company/tinkoff/blog/474894/).   
+[HOW TO WRITE A KILLER CV – 15 DOS AND DON’TS](https://cleareurope.eu/write-killer-cv-15-dos-donts/).      
+[I’ve read thousands of resumes. Most of them suck. Yours doesn’t have to.](https://emeyerson.medium.com/ive-read-thousands-of-resumes-most-of-them-suck-yours-doesn-t-have-to-ab6107fa8ace).   
 
-## Как написать мотивационное письмо
+## Код
+Создайте себе аккаунт в любой version control system: github, gitlab, bitbucket.  
+В отдельные репозитории добавьте любой код, который вы успели написать. Подойдут любые проектики, задачи, курсовые, решения задач из книжек и с сайтов.   
+
+Мы проверяем ваш код на плагиат. В репозитории добавляйте только ваш личный код, написанный вами.  
+
+[Хорошо структурируйте ваши репозитории](https://softwareengineering.stackexchange.com/questions/86914/whats-the-best-structure-for-a-repository). 
+В каждый репозиторий добавьте [README файл](https://www.makeareadme.com/).  
+
+## Мотивационное письмо
+Письмо должно начинаться с этой строчки  
+*Я готов к обучению в Syberry Academy и к работе в Syberry. Вот почему я так считаю:*   
+И быть ответом на вопрос "почему?".
+
+Напишите письмо на русском. Текст письма положите в .txt файл. Назовите его name-surname-letter.txt, где name-surname - это ваши имя и фамилия. Например, для Jane Doe название файла будет jane-doe-letter.txt
 
 ## Тестовые задания с прошлых наборов  
 [тестовое задание, 2020 Е05](https://github.com/SyberryAcademy/Tasks-Library/blob/master/Matrix-Operations/matrix-operations.md)  
